@@ -11,7 +11,7 @@ My name is Carlos Nackamura. I currently live in Bauru Brazil working as back-en
 ⚡ On my free time, I like to watch some tech content on YouTube, watch some TV serie or movie or play some video game.
 
 ## Skills and Tools
-
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,vscode,js,nodejs,typescript,express,nestjs,python,django,java,spring,mongodb,postgres,mysql)](https://skillicons.dev)
 
 
 <!--
