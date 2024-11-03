@@ -10,7 +10,7 @@ My name is Carlos Nackamura. I currently live in Bauru Brazil working as back-en
 
 ⚡ On my free time, I like to watch some tech content on YouTube, watch some TV serie or movie or play some video game.
 
-https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg
+## Skills and Tools
 
 
 
