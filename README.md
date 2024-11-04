@@ -6,7 +6,7 @@ My name is Carlos Nackamura. I currently live in Bauru Brazil working as back-en
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnack&hide=prs,issues,stars&hide_rank&theme=transparent)
 
 
-🔭 I work with Javascript, Python and Java as main programming languages.
+🔭 I work with Javascript, Typescript, Python and Java as main programming languages.
 
 🌱 I have been studying machine learning and data science together, working with different algorithms for predictions and using different strategies for analyzing and processing data.
 
