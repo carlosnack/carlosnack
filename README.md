@@ -16,7 +16,7 @@ My name is Carlos Nackamura. I currently live in Bauru Brazil working as back-en
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,vscode,js,nodejs,typescript,express,nestjs,python,django,java,spring,mongodb,postgres,mysql)](https://skillicons.dev)
 
 
-##TOP Languages
+## TOP Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosnack)](https://github.com/anuraghazra/github-readme-stats)
 
 
