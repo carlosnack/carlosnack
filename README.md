@@ -3,6 +3,8 @@
 ## Public information
 My name is Carlos Nackamura. I currently live in Bauru Brazil working as back-end developer for N3urons Brasil.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnack&hide=prs,issues,stars&hide_rank&theme=transparent)
+
 
 🔭 I work with Javascript, Python and Java as main programming languages.
 
@@ -12,6 +14,14 @@ My name is Carlos Nackamura. I currently live in Bauru Brazil working as back-en
 
 ## Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,vscode,js,nodejs,typescript,express,nestjs,python,django,java,spring,mongodb,postgres,mysql)](https://skillicons.dev)
+
+
+##TOP Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosnack)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 <!--
