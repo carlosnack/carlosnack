@@ -25,7 +25,7 @@ University: UNESP - Universidade Estadual Paulista
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnack&hide=prs,issues,stars&hide_rank&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnack&hide=issues,stars&hide_rank&theme=transparent)
 
 
 
