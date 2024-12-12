@@ -16,7 +16,7 @@ Age: 25
 
 Living in: Bauru, Brazil
 
-Stack: Typescript - Node - MongoDB - SQL
+Stack: React - Typescript - Node - MongoDB - SQL
 
 University: UNESP - Universidade Estadual Paulista
 
