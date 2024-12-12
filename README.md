@@ -22,7 +22,7 @@ University: UNESP - Universidade Estadual Paulista
 
 
 ## Skills and Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,vscode,js,nodejs,typescript,express,nestjs,python,django,java,spring,mongodb,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,vscode,js,react,nodejs,typescript,express,nextjs,nestjs,python,django,java,spring,mongodb,postgres,mysql)](https://skillicons.dev)
 
 
 ## TOP Languages
