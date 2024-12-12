@@ -11,10 +11,15 @@ My name is Carlos Nackamura. I currently live in Bauru Brazil working as back-en
 
 ## Detailed information
 Name: Carlos Nackamura
+
 Age: 25
+
 Living in: Bauru, Brazil
+
 Stack: Typescript - Node - MongoDB - SQL
+
 University: UNESP - Universidade Estadual Paulista
+
 
 ## Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,vscode,js,nodejs,typescript,express,nestjs,python,django,java,spring,mongodb,postgres,mysql)](https://skillicons.dev)
